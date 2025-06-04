@@ -21,7 +21,7 @@ Whether you're building a multi-tiered web application or a service-oriented bac
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-org/lobby.git
+   git clone https://github.com/cmds-hub/lobby.git
    cd lobby
    ```
    
