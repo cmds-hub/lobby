@@ -1,0 +1,78 @@
+<html>
+
+<head>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+  <style>
+
+    .flex-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+    }
+
+    .col {
+      padding: 1rem;
+      padding-bottom: 2rem;
+      border: 1px solid #ccc;
+      overflow: hidden;
+      max-height: 300px;
+    }
+
+    .col .links a {
+      font-size: 1.2rem;
+      color: #777;
+    }
+
+    .col .links a i {
+      padding-right: 5px;
+    }
+
+    .col .links .visit-site {
+      float: left;
+    }
+
+    .col .links .cmds-sign-in {
+      float: right;
+    }
+
+    .col .name {
+      clear: both;
+      float: none;
+      text-align: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+      padding-top: 10px;
+      padding-bottom: 15px;
+    }
+
+    .col .logo {
+      display: flex;
+      justify-content: center;
+    }
+
+    .col img {
+      max-width: 280px;
+      max-height: 100%;
+      object-fit: contain;
+      display: block;
+      height: auto;
+      width: auto;
+    }
+
+    .col:hover {
+      border: black 1px solid;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+{{partners}}
+
+</body>
+
+</html>

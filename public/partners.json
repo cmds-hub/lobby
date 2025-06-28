@@ -1,0 +1,374 @@
+[
+  {
+    "Name": "ACGS",
+    "Subdomain": "acgs",
+    "Slug": "acgs",
+    "Url": "#"
+  },
+  {
+    "Name": "Advantage Energy",
+    "Subdomain": "advantage",
+    "Slug": "advantage-energy",
+    "Url": "https://www.advantageog.com/"
+  },
+  {
+    "Name": "AltaGas",
+    "Subdomain": "altagas",
+    "Slug": "altagas",
+    "Url": "https://www.altagas.ca/"
+  },
+  {
+    "Name": "Archer Exploration",
+    "Subdomain": "aec",
+    "Slug": "archer-exploration",
+    "Url": "https://www.archerexp.com/"
+  },
+  {
+    "Name": "Arnett & Burgess Energy Services",
+    "Subdomain": "abenergyservices",
+    "Slug": "arnett-burgess-energy-services",
+    "Url": "https://abenergyservices.com/"
+  },
+  {
+    "Name": "Artis Exploration",
+    "Subdomain": "artis",
+    "Slug": "artis-exploration",
+    "Url": "https://artisexp.com/"
+  },
+  {
+    "Name": "ATCO EnPower",
+    "Subdomain": "atco-energy",
+    "Slug": "atco-enpower",
+    "Url": "https://www.atco.com/en-ca/businesses/atco-enpower.html"
+  },
+  {
+    "Name": "Athabasca Oil",
+    "Subdomain": "athabasca",
+    "Slug": "athabasca-oil",
+    "Url": "https://www.atha.com/"
+  },
+  {
+    "Name": "Axiom Oil and Gas",
+    "Subdomain": "axiom",
+    "Slug": "axiom-oil-and-gas",
+    "Url": "http://axiomoilandgas.ca/"
+  },
+  {
+    "Name": "Barrel Oil",
+    "Subdomain": "barrel",
+    "Slug": "barrel-oil",
+    "Url": "https://barreloilcorp.com/"
+  },
+  {
+    "Name": "Barnwell of Canada",
+    "Subdomain": "bocl",
+    "Slug": "barnwell-of-canada",
+    "Url": "https://bocl.ca/"
+  },
+  {
+    "Name": "Baytex Energy",
+    "Subdomain": "baytex",
+    "Slug": "baytex-energy",
+    "Url": "https://www.baytexenergy.com/"
+  },
+  {
+    "Name": "Blue Sky Resources",
+    "Subdomain": "zargon",
+    "Slug": "blue-sky-resources",
+    "Url": "https://bsrl.ca/"
+  },
+  {
+    "Name": "BTG Energy",
+    "Subdomain": "btgenergy",
+    "Slug": "btg-energy",
+    "Url": "https://btgenergy.com/"
+  },
+  {
+    "Name": "Canadian Natural Resources",
+    "Subdomain": "cnrl",
+    "Slug": "canadian-natural-resources",
+    "Url": "https://www.cnrl.com/"
+  },
+  {
+    "Name": "Canlin Energy",
+    "Subdomain": "canlin",
+    "Slug": "canlin-energy",
+    "Url": "https://canlinenergy.com/"
+  },
+  {
+    "Name": "Cardinal Energy",
+    "Subdomain": "cardinal",
+    "Slug": "cardinal-energy",
+    "Url": "https://cardinalenergy.ca/"
+  },
+  {
+    "Name": "Coelacanth Energy",
+    "Subdomain": "cei",
+    "Slug": "coelacanth-energy",
+    "Url": "https://www.coelacanth.ca/"
+  },
+  {
+    "Name": "CSV Midstream",
+    "Subdomain": "csv",
+    "Slug": "csv-midstream",
+    "Url": "https://www.csvmidstream.com/"
+  },
+  {
+    "Name": "Eagle Energy",
+    "Subdomain": "eagleenergy",
+    "Slug": "eagle-energy",
+    "Url": "http://www.eagleenergy.com/"
+  },
+  {
+    "Name": "Ember Resources",
+    "Subdomain": "ember",
+    "Slug": "ember-resources",
+    "Url": "https://emberresources.com/"
+  },
+  {
+    "Name": "ETC",
+    "Subdomain": "meritage",
+    "Slug": "energy-transfer",
+    "Url": "https://www.energytransfer.com/"
+  },
+  {
+    "Name": "Gibson Energy",
+    "Subdomain": "gibson",
+    "Slug": "gibson-energy",
+    "Url": "https://www.gibsonenergy.com/"
+  },
+  {
+    "Name": "Gran Tierra Energy",
+    "Subdomain": "grantierra",
+    "Slug": "gran-tierra",
+    "Url": "https://www.grantierra.com/"
+  },
+  {
+    "Name": "Highvale Energy",
+    "Subdomain": "highvale",
+    "Slug": "highvale-energy",
+    "Url": "https://highvaleenergy.com/"
+  },
+  {
+    "Name": "Highwood Asset Management",
+    "Subdomain": "highwood",
+    "Slug": "highwood-asset-management",
+    "Url": "https://highwoodmgmt.com/"
+  },
+  {
+    "Name": "HWN Energy",
+    "Subdomain": "hwnenergy",
+    "Slug": "hwn-energy",
+    "Url": "https://hwnenergy.com/"
+  },
+  {
+    "Name": "Journey Energy",
+    "Subdomain": "journey",
+    "Slug": "journey-energy",
+    "Url": "https://www.journeyenergy.ca/"
+  },
+  {
+    "Name": "Kelt Exploration",
+    "Subdomain": "kelt",
+    "Slug": "kelt-exploration",
+    "Url": "https://keltexploration.com/"
+  },
+  {
+    "Name": "KEYERA",
+    "Subdomain": "keyera",
+    "Slug": "keyera",
+    "Url": "https://www.keyera.com/"
+  },
+  {
+    "Name": "Kingston Midstream",
+    "Subdomain": "kingston",
+    "Slug": "kingston-midstream",
+    "Url": "https://www.kingstonmidstream.com/"
+  },
+  {
+    "Name": "Lakeland College",
+    "Subdomain": "lakeland",
+    "Slug": "lakeland-college",
+    "Url": "https://www.lakelandcollege.ca/"
+  },
+  {
+    "Name": "Loyal Energy",
+    "Subdomain": "loyalenergy",
+    "Slug": "loyal-energy",
+    "Url": "https://loyalenergycanada.com/"
+  },
+  {
+    "Name": "Mancal Energy",
+    "Subdomain": "mancal",
+    "Slug": "mancal-energy",
+    "Url": "https://www.mancal.com/energy.html"
+  },
+  {
+    "Name": "Mountain West Services",
+    "Subdomain": "mtnwest",
+    "Slug": "mountain-west-services",
+    "Url": "https://www.mtnwest.ca/"
+  },
+  {
+    "Name": "New Star Energy",
+    "Subdomain": "newstar",
+    "Slug": "new-star-energy",
+    "Url": "https://www.newstarenergy.ca/"
+  },
+  {
+    "Name": "North 40 Resources",
+    "Subdomain": "n40",
+    "Slug": "north-40-resources",
+    "Url": "https://north40resources.com/"
+  },
+  {
+    "Name": "NuVista Energy",
+    "Subdomain": "nuvista",
+    "Slug": "nuvista-energy",
+    "Url": "https://nvaenergy.com/"
+  },
+  {
+    "Name": "Orlen Upstream Canada",
+    "Subdomain": "orlen",
+    "Slug": "orlen-upstream-canada",
+    "Url": "https://www.orlenupstream.ca/"
+  },
+  {
+    "Name": "Parallax Energy",
+    "Subdomain": "vesta",
+    "Slug": "parallax-energy",
+    "Url": "https://parallaxenergy.ca/"
+  },
+  {
+    "Name": "PETRONAS Energy",
+    "Subdomain": "progress",
+    "Slug": "petronas-energy",
+    "Url": "https://www.petronascanada.com/"
+  },
+  {
+    "Name": "Pine Cliff Energy",
+    "Subdomain": "pce",
+    "Slug": "pine-cliff-energy",
+    "Url": "https://www.pinecliffenergy.com/"
+  },
+  {
+    "Name": "Prairie Provident Resources",
+    "Subdomain": "marquee",
+    "Slug": "prairie-provident-resources",
+    "Url": "https://www.ppr.ca/"
+  },
+  {
+    "Name": "Ricochet Oil",
+    "Subdomain": "ricochetoil",
+    "Slug": "ricochet-oil",
+    "Url": "https://www.ricochetoil.com/"
+  },
+  {
+    "Name": "Rockpoint Gas Storage",
+    "Subdomain": "rockpointgs",
+    "Slug": "rockpoint-gas-storage",
+    "Url": "https://www.rockpointgs.com/"
+  },
+  {
+    "Name": "Roska DBO",
+    "Subdomain": "roska",
+    "Slug": "roska-dbo",
+    "Url": "https://roskadbo.com/"
+  },
+  {
+    "Name": "Shift iQ",
+    "Subdomain": "e03",
+    "Slug": "shift-iq",
+    "Url": "https://www.shiftiq.com/"
+  },
+  {
+    "Name": "Sinopec Daylight",
+    "Subdomain": "sinopec",
+    "Slug": "sinopec-daylight",
+    "Url": "https://www.sinopeccanada.com/"
+  },
+  {
+    "Name": "Spartan Delta",
+    "Subdomain": "spartan",
+    "Slug": "spartan-delta",
+    "Url": "https://www.spartandeltacorp.com/"
+  },
+  {
+    "Name": "Spur Petroleum",
+    "Subdomain": "spur",
+    "Slug": "spur-petroleum",
+    "Url": "https://spurpetroleum.ca/"
+  },
+  {
+    "Name": "Steel Reef",
+    "Subdomain": "steelreef",
+    "Slug": "steel-reef",
+    "Url": "https://steelreef.ca/"
+  },
+  {
+    "Name": "Strathcona Resources",
+    "Subdomain": "strath",
+    "Slug": "strathcona-resources",
+    "Url": "https://www.strathconaresources.com/"
+  },
+  {
+    "Name": "TAQA",
+    "Subdomain": "taqa",
+    "Slug": "taqa",
+    "Url": "https://www.taqa.com/"
+  },
+  {
+    "Name": "Taiga Energy",
+    "Subdomain": "taiga",
+    "Slug": "taiga-energy",
+    "Url": "https://taigaenergy.ca/"
+  },
+  {
+    "Name": "Tamarack Valley Energy",
+    "Subdomain": "tamarack",
+    "Slug": "tamarack-valley-energy",
+    "Url": "https://www.tamarackvalley.ca/"
+  },
+  {
+    "Name": "Tidewater Midstream",
+    "Subdomain": "tidewater",
+    "Slug": "tidewater-midstream",
+    "Url": "https://www.tidewatermidstream.com/"
+  },
+  {
+    "Name": "Thor Resources",
+    "Subdomain": "thor",
+    "Slug": "thor-resources",
+    "Url": "https://www.thorres.com/"
+  },
+  {
+    "Name": "TMax Energy",
+    "Subdomain": "tmax",
+    "Slug": "tmax-energy",
+    "Url": "https://www.tmaxenergy.ca/"
+  },
+  {
+    "Name": "Tourmaline Oil",
+    "Subdomain": "tourmaline",
+    "Slug": "tourmaline-oil",
+    "Url": "https://www.tourmalineoil.com/"
+  },
+  {
+    "Name": "Westbrick Energy",
+    "Subdomain": "westbrick",
+    "Slug": "westbrick-energy",
+    "Url": "https://www.westbrick.ca/"
+  },
+  {
+    "Name": "Wolf Midstream",
+    "Subdomain": "wolfmidstream",
+    "Slug": "wolf-midstream",
+    "Url": "https://wolfmidstream.com/"
+  },
+  {
+    "Name": "Yoho Resources",
+    "Subdomain": "yri",
+    "Slug": "yoho-resources",
+    "Url": "http://www.yohoresources.ca/"
+  }
+]
