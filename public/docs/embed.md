@@ -1,4 +1,4 @@
-# ui/portal/progress/credentials/learners/search/add-new-certificate
+# ui/portal/progress/credentials/learners/search#add-new-certificate
 
 **Need Some Guidance?**
 
