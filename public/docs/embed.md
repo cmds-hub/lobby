@@ -31,6 +31,8 @@ View the example ticket for reference <a target="_blank" href="https://hub.cmds.
 
 # ui/cmds/admin/users/edit#reporting-lines
 
+About reporting lines at Keyera:
+
 - Leader - (Workday) This is the individual to whom a person reports, as configured in Workday.
 - Manager - TBD
 - Supervisor - TBD
