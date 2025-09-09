@@ -17,6 +17,7 @@ Specific types of contextual help include:
 
 The term "contextual help" is widely recognized in UX design and technical writing communities as it emphasizes that the help is relevant to the user's immediate context and task, rather than requiring them to navigate away to a separate help section or documentation.
 
+
 # ui/portal/record/credentials/learners/search#add-new-certificate
 
 **Need Some Guidance?**
@@ -26,3 +27,11 @@ Follow the steps in the guide <a target="_blank" href="https://hub.cmds.app/lobb
 **What is a Safety Certificate?**
 
 View the example ticket for reference <a target="_blank" href="https://hub.cmds.app/lobby/docs/guides/safety-certificate-upload/example.pdf">HERE</a>
+
+
+# ui/cmds/admin/users/edit#reporting-lines
+
+- Leader - (Workday) This is the individual to whom a person reports, as configured in Workday.
+- Manager - TBD
+- Supervisor - TBD
+- Validator - TBD
