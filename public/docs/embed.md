@@ -31,9 +31,14 @@ View the example ticket for reference <a target="_blank" href="https://hub.cmds.
 
 # ui/cmds/admin/users/edit#reporting-lines
 
-About reporting lines at Keyera:
+**About Reporting Lines at Keyera**
 
-- Leader - (Workday) This is the individual to whom a person reports, as configured in Workday.
-- Manager - TBD
-- Supervisor - TBD
-- Validator - TBD
+Relationship definitions:
+- Leader (Workday): The individual to whom the User reports, as configured in Workday.
+- Manager: The individual who oversees the user's site or department.
+- Supervisor: The individual who oversees and directs the user's work.
+- Validator: One or more individuals assigned to validate the user's competency profile(s); includes their site lead.
+
+Additional notes:
+- Reporting lines typically go up the hierarchy: Validator → Supervisor → Manager. However, there may be cases where a User’s Validator (i.e., site lead) overlaps with their Supervisor.
+- The "Leader" relationship is automatically established and updated via the Workday integration and does not require administrative configuration. It may also overlap with one or more of the other relationships, depending on site reporting practices versus Workday org charts.
