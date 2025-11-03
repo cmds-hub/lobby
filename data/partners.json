@@ -1,374 +1,374 @@
 [
   {
-    "SiteUrl": "https://www.advantageog.com/",
-    "LoginUrl": "https://advantage.insite.com",
-    "Name": "Advantage Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/advantage-energy.png"
+    "SiteUrl": "https://fortisinc.com/",
+    "LoginUrl": "https://acgs.cmds.app",
+    "CompanyName": "Aitken Creek Gas Storage (Fortis)",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/acgs.png"
   },
   {
-    "SiteUrl": "https://fortisinc.com/",
-    "LoginUrl": "https://acgs.insite.com",
-    "Name": "Aitken Creek Gas Storage (Fortis)",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/acgs.png"
+    "SiteUrl": "https://www.advantageog.com/",
+    "LoginUrl": "https://advantage.cmds.app",
+    "CompanyName": "Advantage Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/advantage-energy.png"
   },
   {
     "SiteUrl": "https://www.altagas.ca/",
-    "LoginUrl": "https://altagas.insite.com",
-    "Name": "AltaGas",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/altagas.png"
+    "LoginUrl": "https://altagas.cmds.app",
+    "CompanyName": "AltaGas",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/altagas.png"
   },
   {
     "SiteUrl": "https://www.archerexp.com/",
-    "LoginUrl": "https://aec.insite.com",
-    "Name": "Archer Exploration",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/archer-exploration.png"
+    "LoginUrl": "https://aec.cmds.app",
+    "CompanyName": "Archer Exploration",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/archer-exploration.png"
   },
   {
     "SiteUrl": "https://abenergyservices.com/",
-    "LoginUrl": "https://abenergyservices.insite.com",
-    "Name": "Arnett & Burgess Energy Services",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/arnett-burgess-energy-services.png"
+    "LoginUrl": "https://abenergyservices.cmds.app",
+    "CompanyName": "Arnett & Burgess Energy Services",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/arnett-burgess-energy-services.png"
   },
   {
     "SiteUrl": "https://artisexp.com/",
-    "LoginUrl": "https://artis.insite.com",
-    "Name": "Artis Exploration",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/artis-exploration.png"
+    "LoginUrl": "https://artis.cmds.app",
+    "CompanyName": "Artis Exploration",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/artis-exploration.png"
   },
   {
     "SiteUrl": "https://www.atco.com/en-ca/businesses/atco-enpower.html",
-    "LoginUrl": "https://atco-energy.insite.com",
-    "Name": "ATCO EnPower",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/atco-enpower.png"
+    "LoginUrl": "https://atco-energy.cmds.app",
+    "CompanyName": "ATCO EnPower",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/atco-enpower.png"
   },
   {
     "SiteUrl": "https://www.atha.com/",
-    "LoginUrl": "https://athabasca.insite.com",
-    "Name": "Athabasca Oil",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/athabasca-oil.png"
+    "LoginUrl": "https://athabasca.cmds.app",
+    "CompanyName": "Athabasca Oil",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/athabasca-oil.png"
   },
   {
     "SiteUrl": "http://axiomoilandgas.ca/",
-    "LoginUrl": "https://axiom.insite.com",
-    "Name": "Axiom Oil and Gas",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/axiom-oil-and-gas.png"
+    "LoginUrl": "https://axiom.cmds.app",
+    "CompanyName": "Axiom Oil and Gas",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/axiom-oil-and-gas.png"
   },
   {
     "SiteUrl": "https://bocl.ca/",
-    "LoginUrl": "https://bocl.insite.com",
-    "Name": "Barnwell of Canada",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/barnwell-of-canada.png"
+    "LoginUrl": "https://bocl.cmds.app",
+    "CompanyName": "Barnwell of Canada",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/barnwell-of-canada.png"
   },
   {
     "SiteUrl": "https://barreloilcorp.com/",
-    "LoginUrl": "https://barrel.insite.com",
-    "Name": "Barrel Oil",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/barrel-oil.png"
+    "LoginUrl": "https://barrel.cmds.app",
+    "CompanyName": "Barrel Oil",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/barrel-oil.png"
   },
   {
     "SiteUrl": "https://www.baytexenergy.com/",
-    "LoginUrl": "https://baytex.insite.com",
-    "Name": "Baytex Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/baytex-energy.png"
+    "LoginUrl": "https://baytex.cmds.app",
+    "CompanyName": "Baytex Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/baytex-energy.png"
   },
   {
     "SiteUrl": "https://bsrl.ca/",
-    "LoginUrl": "https://zargon.insite.com",
-    "Name": "Blue Sky Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/blue-sky-resources.png"
+    "LoginUrl": "https://zargon.cmds.app",
+    "CompanyName": "Blue Sky Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/blue-sky-resources.png"
   },
   {
     "SiteUrl": "https://btgenergy.com/",
-    "LoginUrl": "https://btgenergy.insite.com",
-    "Name": "BTG Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/btg-energy.png"
+    "LoginUrl": "https://btgenergy.cmds.app",
+    "CompanyName": "BTG Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/btg-energy.png"
   },
   {
     "SiteUrl": "https://www.cnrl.com/",
-    "LoginUrl": "https://cnrl.insite.com",
-    "Name": "Canadian Natural Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/canadian-natural-resources.png"
+    "LoginUrl": "https://cnrl.cmds.app",
+    "CompanyName": "Canadian Natural Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/canadian-natural-resources.png"
   },
   {
     "SiteUrl": "https://canlinenergy.com/",
-    "LoginUrl": "https://canlin.insite.com",
-    "Name": "Canlin Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/canlin-energy.png"
+    "LoginUrl": "https://canlin.cmds.app",
+    "CompanyName": "Canlin Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/canlin-energy.png"
   },
   {
     "SiteUrl": "https://cardinalenergy.ca/",
-    "LoginUrl": "https://cardinal.insite.com",
-    "Name": "Cardinal Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/cardinal-energy.png"
+    "LoginUrl": "https://cardinal.cmds.app",
+    "CompanyName": "Cardinal Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/cardinal-energy.png"
   },
   {
     "SiteUrl": "https://www.coelacanth.ca/",
-    "LoginUrl": "https://cei.insite.com",
-    "Name": "Coelacanth Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/coelacanth-energy.png"
+    "LoginUrl": "https://cei.cmds.app",
+    "CompanyName": "Coelacanth Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/coelacanth-energy.png"
   },
   {
     "SiteUrl": "https://www.csvmidstream.com/",
-    "LoginUrl": "https://csv.insite.com",
-    "Name": "CSV Midstream",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/csv-midstream.png"
+    "LoginUrl": "https://csv.cmds.app",
+    "CompanyName": "CSV Midstream",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/csv-midstream.png"
   },
   {
     "SiteUrl": "https://cygnetenergy.ca/",
-    "LoginUrl": "https://cygnetenergy.insite.com/ui/lobby/signin",
-    "Name": "Cygnet Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/cygnet-energy.png"
+    "LoginUrl": "https://cygnetenergy.cmds.app/ui/lobby/signin",
+    "CompanyName": "Cygnet Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/cygnet-energy.png"
   },
   {
     "SiteUrl": "http://www.eagleenergy.com/",
-    "LoginUrl": "https://eagleenergy.insite.com",
-    "Name": "Eagle Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/eagle-energy.png"
+    "LoginUrl": "https://eagleenergy.cmds.app",
+    "CompanyName": "Eagle Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/eagle-energy.png"
   },
   {
     "SiteUrl": "https://emberresources.com/",
-    "LoginUrl": "https://ember.insite.com",
-    "Name": "Ember Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/ember-resources.png"
+    "LoginUrl": "https://ember.cmds.app",
+    "CompanyName": "Ember Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/ember-resources.png"
   },
   {
     "SiteUrl": "https://www.energytransfer.com/",
-    "LoginUrl": "https://meritage.insite.com",
-    "Name": "ETC",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/energy-transfer.png"
+    "LoginUrl": "https://meritage.cmds.app",
+    "CompanyName": "Energy Transfer",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/energy-transfer.png"
   },
   {
     "SiteUrl": "https://www.gibsonenergy.com/",
-    "LoginUrl": "https://gibson.insite.com",
-    "Name": "Gibson Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/gibson-energy.png"
+    "LoginUrl": "https://gibson.cmds.app",
+    "CompanyName": "Gibson Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/gibson-energy.png"
   },
   {
     "SiteUrl": "https://www.grantierra.com/",
-    "LoginUrl": "https://grantierra.insite.com",
-    "Name": "Gran Tierra Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/gran-tierra.png"
+    "LoginUrl": "https://grantierra.cmds.app",
+    "CompanyName": "Gran Tierra Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/gran-tierra.png"
   },
   {
     "SiteUrl": "https://highvaleenergy.com/",
-    "LoginUrl": "https://newstar.insite.com",
-    "Name": "Highvale Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/highvale-energy.png"
+    "LoginUrl": "https://newstar.cmds.app",
+    "CompanyName": "Highvale Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/highvale-energy.png"
   },
   {
     "SiteUrl": "https://highwoodmgmt.com/",
-    "LoginUrl": "https://highwood.insite.com",
-    "Name": "Highwood Asset Management",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/highwood-asset-management.png"
+    "LoginUrl": "https://highwood.cmds.app",
+    "CompanyName": "Highwood Asset Management",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/highwood-asset-management.png"
   },
   {
     "SiteUrl": "https://hwnenergy.com/",
-    "LoginUrl": "https://hwnenergy.insite.com",
-    "Name": "HWN Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/hwn-energy.png"
+    "LoginUrl": "https://hwnenergy.cmds.app",
+    "CompanyName": "HWN Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/hwn-energy.png"
   },
   {
     "SiteUrl": "https://www.journeyenergy.ca/",
-    "LoginUrl": "https://journey.insite.com",
-    "Name": "Journey Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/journey-energy.png"
+    "LoginUrl": "https://journey.cmds.app",
+    "CompanyName": "Journey Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/journey-energy.png"
   },
   {
     "SiteUrl": "https://keltexploration.com/",
-    "LoginUrl": "https://kelt.insite.com",
-    "Name": "Kelt Exploration",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/kelt-exploration.png"
+    "LoginUrl": "https://kelt.cmds.app",
+    "CompanyName": "Kelt Exploration",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/kelt-exploration.png"
   },
   {
     "SiteUrl": "https://www.keyera.com/",
-    "LoginUrl": "https://keyera.insite.com",
-    "Name": "KEYERA",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/keyera.png"
+    "LoginUrl": "https://keyera.cmds.app",
+    "CompanyName": "Keyera",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/keyera.png"
   },
   {
     "SiteUrl": "https://www.kingstonmidstream.com/",
-    "LoginUrl": "https://kingston.insite.com",
-    "Name": "Kingston Midstream",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/kingston-midstream.png"
+    "LoginUrl": "https://kingston.cmds.app",
+    "CompanyName": "Kingston Midstream",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/kingston-midstream.png"
   },
   {
     "SiteUrl": "https://www.lakelandcollege.ca/",
-    "LoginUrl": "https://lakeland.insite.com",
-    "Name": "Lakeland College",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/lakeland-college.png"
+    "LoginUrl": "https://lakeland.cmds.app",
+    "CompanyName": "Lakeland College",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/lakeland-college.png"
   },
   {
     "SiteUrl": "https://loyalenergycanada.com/",
-    "LoginUrl": "https://loyalenergy.insite.com",
-    "Name": "Loyal Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/loyal-energy.png"
+    "LoginUrl": "https://loyalenergy.cmds.app",
+    "CompanyName": "Loyal Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/loyal-energy.png"
   },
   {
     "SiteUrl": "https://www.mancal.com/energy.html",
-    "LoginUrl": "https://mancal.insite.com",
-    "Name": "Mancal Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/mancal-energy.png"
+    "LoginUrl": "https://mancal.cmds.app",
+    "CompanyName": "Mancal Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/mancal-energy.png"
   },
   {
     "SiteUrl": "https://www.mtnwest.ca/",
-    "LoginUrl": "https://mtnwest.insite.com",
-    "Name": "Mountain West Services",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/mountain-west-services.png"
+    "LoginUrl": "https://mtnwest.cmds.app",
+    "CompanyName": "Mountain West Services",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/mountain-west-services.png"
   },
   {
     "SiteUrl": "https://north40resources.com/",
-    "LoginUrl": "https://n40.insite.com",
-    "Name": "North 40 Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/north-40-resources.png"
+    "LoginUrl": "https://n40.cmds.app",
+    "CompanyName": "North 40 Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/north-40-resources.png"
   },
   {
     "SiteUrl": "https://nvaenergy.com/",
-    "LoginUrl": "https://nuvista.insite.com",
-    "Name": "NuVista Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/nuvista-energy.png"
+    "LoginUrl": "https://nuvista.cmds.app",
+    "CompanyName": "NuVista Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/nuvista-energy.png"
   },
   {
     "SiteUrl": "https://www.orlenupstream.ca/",
-    "LoginUrl": "https://orlen.insite.com",
-    "Name": "Orlen Upstream Canada",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/orlen-upstream-canada.png"
+    "LoginUrl": "https://orlen.cmds.app",
+    "CompanyName": "Orlen Upstream Canada",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/orlen-upstream-canada.png"
   },
   {
     "SiteUrl": "https://parallaxenergy.ca/",
-    "LoginUrl": "https://vesta.insite.com",
-    "Name": "Parallax Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/parallax-energy.png"
+    "LoginUrl": "https://vesta.cmds.app",
+    "CompanyName": "Parallax Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/parallax-energy.png"
   },
   {
     "SiteUrl": "https://www.petronascanada.com/",
-    "LoginUrl": "https://progress.insite.com",
-    "Name": "PETRONAS Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/petronas-energy.png"
+    "LoginUrl": "https://progress.cmds.app",
+    "CompanyName": "Petronas Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/petronas-energy.png"
   },
   {
     "SiteUrl": "https://www.pinecliffenergy.com/",
-    "LoginUrl": "https://pce.insite.com",
-    "Name": "Pine Cliff Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/pine-cliff-energy.png"
+    "LoginUrl": "https://pce.cmds.app",
+    "CompanyName": "Pine Cliff Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/pine-cliff-energy.png"
   },
   {
     "SiteUrl": "https://www.ppr.ca/",
-    "LoginUrl": "https://marquee.insite.com",
-    "Name": "Prairie Provident Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/prairie-provident-resources.png"
+    "LoginUrl": "https://marquee.cmds.app",
+    "CompanyName": "Prairie Provident Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/prairie-provident-resources.png"
   },
   {
     "SiteUrl": "https://www.ricochetoil.com/",
-    "LoginUrl": "https://ricochetoil.insite.com",
-    "Name": "Ricochet Oil",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/ricochet-oil.png"
+    "LoginUrl": "https://ricochetoil.cmds.app",
+    "CompanyName": "Ricochet Oil",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/ricochet-oil.png"
   },
   {
     "SiteUrl": "https://www.rockpointgs.com/",
-    "LoginUrl": "https://rockpointgs.insite.com",
-    "Name": "Rockpoint Gas Storage",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/rockpoint-gas-storage.png"
+    "LoginUrl": "https://rockpointgs.cmds.app",
+    "CompanyName": "Rockpoint Gas Storage",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/rockpoint-gas-storage.png"
   },
   {
     "SiteUrl": "https://roskadbo.com/",
-    "LoginUrl": "https://roska.insite.com",
-    "Name": "Roska DBO",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/roska-dbo.png"
+    "LoginUrl": "https://roska.cmds.app",
+    "CompanyName": "Roska DBO",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/roska-dbo.png"
   },
   {
     "SiteUrl": "https://www.shiftiq.com/",
-    "LoginUrl": "https://e03.insite.com",
-    "Name": "Shift iQ",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/shift-iq.png"
+    "LoginUrl": "https://e03.cmds.app",
+    "CompanyName": "Shift iQ",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/shift-iq.png"
   },
   {
     "SiteUrl": "https://www.sinopeccanada.com/",
-    "LoginUrl": "https://sinopec.insite.com",
-    "Name": "Sinopec Daylight",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/sinopec-daylight.png"
+    "LoginUrl": "https://sinopec.cmds.app",
+    "CompanyName": "Sinopec Daylight",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/sinopec-daylight.png"
   },
   {
     "SiteUrl": "https://www.spartandeltacorp.com/",
-    "LoginUrl": "https://spartan.insite.com",
-    "Name": "Spartan Delta",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/spartan-delta.png"
+    "LoginUrl": "https://spartan.cmds.app",
+    "CompanyName": "Spartan Delta",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/spartan-delta.png"
   },
   {
     "SiteUrl": "https://spurpetroleum.ca/",
-    "LoginUrl": "https://spur.insite.com",
-    "Name": "Spur Petroleum",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/spur-petroleum.png"
+    "LoginUrl": "https://spur.cmds.app",
+    "CompanyName": "Spur Petroleum",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/spur-petroleum.png"
   },
   {
     "SiteUrl": "https://steelreef.ca/",
-    "LoginUrl": "https://steelreef.insite.com",
-    "Name": "Steel Reef",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/steel-reef.png"
+    "LoginUrl": "https://steelreef.cmds.app",
+    "CompanyName": "Steel Reef",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/steel-reef.png"
   },
   {
     "SiteUrl": "https://www.strathconaresources.com/",
-    "LoginUrl": "https://strath.insite.com",
-    "Name": "Strathcona Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/strathcona-resources.png"
+    "LoginUrl": "https://strath.cmds.app",
+    "CompanyName": "Strathcona Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/strathcona-resources.png"
   },
   {
     "SiteUrl": "https://taigaenergy.ca/",
-    "LoginUrl": "https://taiga.insite.com",
-    "Name": "Taiga Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/taiga-energy.png"
+    "LoginUrl": "https://taiga.cmds.app",
+    "CompanyName": "Taiga Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/taiga-energy.png"
   },
   {
     "SiteUrl": "https://www.tamarackvalley.ca/",
-    "LoginUrl": "https://tamarack.insite.com",
-    "Name": "Tamarack Valley Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/tamarack-valley-energy.png"
+    "LoginUrl": "https://tamarack.cmds.app",
+    "CompanyName": "Tamarack Valley Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/tamarack-valley-energy.png"
   },
   {
     "SiteUrl": "https://www.taqa.com/",
-    "LoginUrl": "https://taqa.insite.com",
-    "Name": "TAQA",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/taqa.png"
+    "LoginUrl": "https://taqa.cmds.app",
+    "CompanyName": "TAQA",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/taqa.png"
   },
   {
     "SiteUrl": "https://www.thorres.com/",
-    "LoginUrl": "https://thor.insite.com",
-    "Name": "Thor Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/thor-resources.png"
+    "LoginUrl": "https://thor.cmds.app",
+    "CompanyName": "Thor Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/thor-resources.png"
   },
   {
     "SiteUrl": "https://www.tidewatermidstream.com/",
-    "LoginUrl": "https://tidewater.insite.com",
-    "Name": "Tidewater Midstream",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/tidewater-midstream.png"
+    "LoginUrl": "https://tidewater.cmds.app",
+    "CompanyName": "Tidewater Midstream",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/tidewater-midstream.png"
   },
   {
     "SiteUrl": "https://www.tmaxenergy.ca/",
-    "LoginUrl": "https://tmax.insite.com",
-    "Name": "TMax Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/tmax-energy.png"
+    "LoginUrl": "https://tmax.cmds.app",
+    "CompanyName": "TMax Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/tmax-energy.png"
   },
   {
     "SiteUrl": "https://www.tourmalineoil.com/",
-    "LoginUrl": "https://tourmaline.insite.com",
-    "Name": "Tourmaline Oil",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/tourmaline-oil.png"
+    "LoginUrl": "https://tourmaline.cmds.app",
+    "CompanyName": "Tourmaline Oil",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/tourmaline-oil.png"
   },
   {
     "SiteUrl": "https://www.westbrick.ca/",
-    "LoginUrl": "https://westbrick.insite.com",
-    "Name": "Westbrick Energy",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/westbrick-energy.png"
+    "LoginUrl": "https://westbrick.cmds.app",
+    "CompanyName": "Westbrick Energy",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/westbrick-energy.png"
   },
   {
     "SiteUrl": "https://wolfmidstream.com/",
-    "LoginUrl": "https://wolfmidstream.insite.com",
-    "Name": "Wolf Midstream",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/wolf-midstream.png"
+    "LoginUrl": "https://wolfmidstream.cmds.app",
+    "CompanyName": "Wolf Midstream",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/wolf-midstream.png"
   },
   {
     "SiteUrl": "http://www.yohoresources.ca/",
-    "LoginUrl": "https://yri.insite.com",
-    "Name": "Yoho Resources",
-    "ImageUrl": "https://hub.cmds.app/public/img/logo/yoho-resources.png"
+    "LoginUrl": "https://yri.cmds.app",
+    "CompanyName": "Yoho Resources",
+    "LogoUrl": "https://hub.cmds.app/lobby/public/img/logo/yoho-resources.png"
   }
 ]

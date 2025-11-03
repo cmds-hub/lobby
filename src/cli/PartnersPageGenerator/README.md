@@ -1,6 +1,6 @@
 # Partners Page Generator
 
-This is a lightweight .NET console application that generates the HTML content for the Partners directory page on the CMDS website. This tool reads company metadata from a JSON file and creates a responsive HTML grid layout for displaying partner logos, names, and links.
+This is a lightweight .NET console application that generates the HTML content for the [Partners directory](https://www.keyeracmds.com/partners/) on the CMDS website. This tool reads company metadata from a JSON file and creates a responsive HTML grid layout for displaying partner logos, names, and links.
 
 ## Features
 

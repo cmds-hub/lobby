@@ -1,12 +1,12 @@
 # CMDS Lobby
 
-The **lobby** is an open source project dedicated to CMDS features for unauthenticated users. In other words, this project assists with implementing public-facing entry points to the CMDS platform. It includes components, services, and workflows designed for visitors who haven't yet signed in.
+The **lobby** is an open source project dedicated to CMDS features for unauthenticated users. In other words, this project assists with implementing public-facing entry points to the CMDS platform. It includes components, services, and workflows designed for visitors to the system who haven't yet signed in.
 
-By definition, all the features and functions in this application are open to the public. 
+By definition, all source code in this repository is open to the public. 
 
 ## Purpose
 
-This repository provides shared infrastructure and code for managing features such as:
+The lobby provides shared infrastructure and code for managing features such as:
 
 - Public home pages
 - Public shareable assets like corporate logos for CMDS partners
