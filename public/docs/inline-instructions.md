@@ -17,9 +17,11 @@ Specific types of contextual help include:
 
 The term "contextual help" is widely recognized in UX design and technical writing communities as it emphasizes that the help is relevant to the user's immediate context and task, rather than requiring them to navigate away to a separate help section or documentation.
 
+
 # ui/admin/learning/programs/enrollments/assign#download-help
 
 **Warning!** Any achievements the learner has earned outside of this program will be permanently deleted from their record. Before proceeding, please download and send their full training completions report to <a href="mailto:admin_cmds@keyera.com">admin_cmds@keyera.com</a> by clicking the **Download** button here.
+
 
 # ui/portal/record/credentials/learners/search#add-new-certificate
 
